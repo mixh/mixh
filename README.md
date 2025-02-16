@@ -2,7 +2,7 @@
 Hi, I'm Mihir Jain, a Master of Computer Science student at Stevens Institute of Technology, set to graduate in May. I'm passionate about leveraging technology to solve real-world problems and constantly seeking opportunities to learn and grow in the field of computer science.
 
 ## Skills
-- **Languages**: Java, Python, SQL, JavaScript, R
+- **Languages**: Java, Python, SQL, JavaScript, R, Swift
 - **Frameworks/Libraries**: React, Node.js, Express.js, Handlebars, Tailwind
 - **Databases**: MongoDB
 - **Tools**: Git, Docker, PyCharm, IntelliJ, Eclipse
