@@ -14,7 +14,7 @@ Hi, I'm Mihir Jain, a Master of Computer Science student at Stevens Institute of
 - [Paper on Image Segmentation using Faster RCNN's](https://drive.google.com/file/d/1xMrQ7Ppx17mj8fDsNLVnyz1rkLJhhc6V/view)
 
 ## Interests
-I am particularly interested in roles related to addressing issues in healthcare and finance, as most of my projects have utilized technology for these purposes. Look out for my projects at [mxjain.com](http://mxjain.com/works).
+I am particularly interested in roles related to addressing issues in healthcare and finance, as most of my projects have utilized technology for these purposes. Look out for my projects at [mxjain.com](https://mxjain.com/works).
 
 ## Get in Touch
-You can find more about me and my projects on my website [mxjain.com](http://mxjain.com). I regularly update it with blogs and other content. Feel free to reach out to me at [mihirxjain@gmail.com](mailto:mihirxjain@gmail.com) for any inquiries or opportunities. Let's connect and explore how we can collaborate!
+You can find more about me and my projects on my website [mxjain.com](https://mxjain.com). I regularly update it with blogs and other content. Feel free to reach out to me at [mihirxjain@gmail.com](mailto:mihirxjain@gmail.com) for any inquiries or opportunities. Let's connect and explore how we can collaborate!
